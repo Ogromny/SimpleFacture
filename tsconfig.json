@@ -1,0 +1,13 @@
+{
+    "noImplicitAny": true,
+    "removeComments": true,
+    "compilerOptions": {
+        "target": "ES2020",
+        "module": "ES2020",
+        "moduleResolution": "node",
+        "strict": true,
+        "experimentalDecorators": true,
+        "typeRoots": ["./node_modules/@types", "./node_modules/vuetify/types"]
+    },
+    "types": ["vuetify"]
+}
