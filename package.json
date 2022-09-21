@@ -36,6 +36,6 @@
         "uuid": "^8.2.0",
         "vue": "^2.6.11",
         "vue-class-component": "^7.2.5",
-        "vuetify": "^2.3.6"
+        "vuetify": "^2.6.10"
     }
 }
